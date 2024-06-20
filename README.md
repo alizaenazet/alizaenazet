@@ -2,7 +2,7 @@
 
 I'm a 2022 Informatics student at Ciputra University, Surabaya. I learn Full Stack Development and Cloud computing.
 
-# Articles:
+### Articles:
 - [Delpoy laravel with Nginx](https://dev.to/azet/deploy-laravel-di-gcp-dengan-nginx-ubuntu-quick-start-1lb7)
 - 
 
